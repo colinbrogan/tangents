@@ -1,0 +1,84 @@
+html {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+body {
+	background-color: #222222;
+	margin-top: 0px;
+	padding-top: 0px;
+	text-align: left;
+}
+
+@font-face {  
+  font-family: "Bebas";  
+  src: url( /BEBAS.eot ); /* IE */  
+  src: local("Bebas"), url( /BEBAS.ttf ) format("truetype"); /* non-IE */  
+}  
+
+#title {
+	font-family: "Bebas", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 400px;
+	letter-spacing: -4px;
+	color: #FFFFFF;
+	margin-top: -120px;
+	margin-left: -40px;
+	padding-top: 0px;
+	text-decoration: none;
+}
+
+#container {
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 80px;
+	width: 700px;
+}
+
+#numbers {
+	font-family: "Bebas", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	line-height: 120px;
+	word-spacing: 20px;
+	color: #dedede;
+	margin-top: 0px;
+
+}
+
+#numbers a{
+	color: #dedede;
+	text-decoration: none;
+}
+
+#numbers a:hover{
+	color: #ffffff;
+	font-size: 120px;
+	word-spacing: 0px;
+	line-height: 10px;
+	text-decoration: underline;
+}
+
+#numbers a:visited {
+	color: #9a9a9a;
+	text-decoration: line-through;
+}
+
+#footer {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	margin-top: 20px;
+	text-decoration: none;
+}
+
+#footer a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#footer a:hover{
+	text-decoration: underline;
+}

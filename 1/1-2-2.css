@@ -1,0 +1,76 @@
+p span.show {
+     display:none;
+ 	text-align: right;
+}
+p:hover span.show {
+     display:inline;
+	text-align: right;
+}
+p:hover span.noshow {
+     display:none;
+	text-align: right;
+}
+
+
+p span.blink {display:none;}
+p:active span.blink {display:inline;}
+p:active span.reg {display:none;}
+
+
+p {
+     float: right;
+	 text-align: right;
+	padding:0px 0px 0px 0px;
+    margin-left:0px;
+    margin-top:0px;
+	font-family: Lucida Console, Monaco, monospace;
+	font-size: 13px;
+	font-weight: normal;
+	color:#000000;
+	line-height: 13px;
+}
+
+p:hover span.reg {
+	color: grey;
+	 text-decoration: none;
+}
+
+a {
+        color:#000000;
+        text-decoration: none;
+}
+
+a:hover {
+		color: #86eaff;
+        text-decoration: none;
+}
+
+html {
+	height: 1500px;
+}
+body {
+	height: 1500px;
+	text-align: right;
+	font-family: Lucida Console, Monaco, monospace;
+	font-weight: normal;
+	font-size: 13px;
+	color:#000000;
+	line-height: 13px;
+}
+
+a:hover {
+		color: #86eaff;
+        text-decoration: none;
+}
+
+h1 {
+		padding:16px 0px 0px 0px;
+    margin-left:0px;
+    margin-top:0px;
+	margin-bottom:0px;
+	text-align: right;
+	font-family: Lucida Console, Monaco, monospace;
+	font-weight: normal;
+	font-size: 30pt;
+	color:#000000;
+}

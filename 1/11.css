@@ -1,0 +1,47 @@
+body {
+	font-family: Lucida Console, Monaco, monospace;
+	font-size: 15px;
+	width: 8000px;
+	line-height: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+body .bold {
+	font-weight: 900;
+	text-decoration: none;
+	letter-spacing: -2px;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #86eaff;
+}
+
+#center {
+	position: absolute;
+	top: 1655px;
+	left: 4500px;
+}
+
+#centercolumn {
+	position: absolute;
+	width: 140px;
+	top:1700px;
+	left:3950px;
+}
+
+#arrowsleft {
+	position: absolute;
+	top:1910px;
+	left:1950px;
+}
+
+#arrowsright {
+	position: absolute;
+	top:1910px;
+	left:4068px;
+}

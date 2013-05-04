@@ -1,0 +1,23 @@
+p span.show {
+     display:none;
+}
+p:hover span.show {
+     display:inline;
+}
+p:hover span.noshow {
+     display:none;
+}
+p {
+     float: left;
+	padding:0px 0px 0px 0px;
+    margin-left:0px;
+    margin-top:0px;
+	font-family: lucida console;
+	font-weight: normal;
+	font-size: 30pt;
+	color:#ff00ff;
+}
+a {
+        color:#ff00ff;
+        text-decoration: none;
+}

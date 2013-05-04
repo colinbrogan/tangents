@@ -1,0 +1,78 @@
+body {
+	width:800px;
+}
+p span.show {display:none;}
+p:hover span.show {display:inline;}
+p:hover span.noshow {display:none;}
+
+
+#background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	z-index: -2;
+}
+
+#slashbox {
+	float:left;
+	width: 10em;
+	padding:0px 0px 0px 0px;
+    margin-left:35px;
+    margin-top:6325px;
+	font-family: Lucida Console, Monaco, monospace;
+	font-weight: normal;
+	font-size: 30pt;
+	color:#000000;
+}
+
+#rant {
+	position:absolute;
+	left:350px;
+	top: 6900px;
+	width: 600px;
+    text-align: center;
+	font-weight: normal;
+	font-family: lLucida Console, Monaco, monospace;
+	font-size: 13px;
+	line-height: 25pt;
+}
+
+#rant h1 {
+	font-family: Lucida Console, Monaco, monospace;
+	font-weight: bold;
+	font-size: 70pt;
+}
+
+#columnright {
+	float:right;
+	position: absolute;
+	text-align: right;
+	right:35px;
+	top:35px;
+	text-align:right;
+	line-height: normal;
+    font-family: Lucida Console, Monaco, monospace;
+	font-weight: normal;
+	font-size: 30pt;
+}
+
+#words {
+	float: left;
+	padding:0px 0px 0px 0px;
+    margin-left:48px;
+    margin-top:150px;
+	font-family: Lucida Console, Monaco, monospace;
+	color:#000000;
+	font-weight: normal;
+	font-size: 8pt;
+	line-height: 13px;
+	letter-spacing:2pt;
+	width: 70%;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	color: #86eaff;
+}

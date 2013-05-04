@@ -1,0 +1,407 @@
+body {
+	font-size: 19px;
+	font-weight: 900;
+}
+
+#contentwrap {
+	height: 12000px;
+	width: 1200%;
+
+}
+
+#center {
+	position: absolute;
+	top: 6000px;
+	left: 600%;
+}
+
+#period1 {
+	position: absolute;
+	top: 47px;
+	left: 1052%;
+}
+
+#period2 {
+	position: absolute;
+	top: 532px;
+	left: 952%;
+}
+
+#period3 {
+	position: absolute;
+	top: 10023px;
+	left: 1109%;
+}
+
+#period4 {
+	position: absolute;
+	top: 8000px;
+	left: 520%;
+}
+
+#period5 {
+	position: absolute;
+	top: 6054px;
+	left: 754%;
+}
+
+#period6 {
+	position: absolute;
+	top: 947px;
+	left: 52%;
+}
+
+#period7 {
+	position: absolute;
+	top: 97px;
+	left: 2%;
+}
+
+#period8 {
+	position: absolute;
+	top: 8534px;
+	left: 653%;
+}
+
+#period9 {
+	position: absolute;
+	top: 9354px;
+	left: 800%;
+}
+
+#period10 {
+	position: absolute;
+	top: 5698px;
+	left: 456%;
+}
+
+#period11 {
+	position: absolute;
+	top: 25px;
+	left: 1185%;
+}
+
+#period12 {
+	position: absolute;
+	top: 11935px;
+	left: 1187%;
+}
+
+#period13 {
+	position: absolute;
+	top: 11957px;
+	left: 13%;
+}
+
+#period14 {
+	position: absolute;
+	top: 9640px;
+	left: 47%;
+}
+
+#period15 {
+	position: absolute;
+	top: 8764px;
+	left: 200%;
+}
+
+#period16 {
+	position: absolute;
+	top: 6598px;
+	left: 365%;
+}
+
+#period17 {
+	position: absolute;
+	top: 5697px;
+	left: 527%;
+}
+
+#period18 {
+	position: absolute;
+	top: 4567px;
+	left: 698%;
+}
+
+#period19 {
+	position: absolute;
+	top: 3957px;
+	left: 768%;
+}
+
+#period20 {
+	position: absolute;
+	top: 3217px;
+	left: 867%;
+}
+
+#period21 {
+	position: absolute;
+	top: 2954px;
+	left: 913%;
+}
+
+#period22 {
+	position: absolute;
+	top: 2569px;
+	left: 987%;
+}
+
+#period23 {
+	position: absolute;
+	top: 2157px;
+	left: 1087%;
+}
+
+#period24 {
+	position: absolute;
+	top: 1632px;
+	left: 1192%;
+}
+
+#period25 {
+	position: absolute;
+	top: 954px;
+	left: 1052%;
+}
+
+#period26 {
+	position: absolute;
+	top: 542px;
+	left: 987%;
+}
+
+#period27 {
+	position: absolute;
+	top: 300px;
+	left: 789%;
+}
+
+#period28 {
+	position: absolute;
+	top: 208px;
+	left: 552%;
+}
+
+#period29 {
+	position: absolute;
+	top: 10563px;
+	left: 1135%;
+}
+
+#period30 {
+	position: absolute;
+	top: 2653x;
+	left: 946%;
+}
+
+#period31 {
+	position: absolute;
+	top: 3654px;
+	left: 998%;
+}
+
+#period32 {
+	position: absolute;
+	top: 10364px;
+	left: 865%;
+}
+
+#period33 {
+	position: absolute;
+	top: 11247px;
+	left: 654%;
+}
+
+#period34 {
+	position: absolute;
+	top: 95px;
+	left: 352%;
+}
+
+#period35 {
+	position: absolute;
+	top: 6542px;
+	left: 1135%;
+}
+
+#period36 {
+	position: absolute;
+	top: 9875px;
+	left: 102%;
+}
+
+#period37 {
+	position: absolute;
+	top: 6512px;
+	left: 878%;
+}
+
+#period38 {
+	position: absolute;
+	top: 10356px;
+	left: 659%;
+}
+
+#period39 {
+	position: absolute;
+	top: 1198px;
+	left: 722%;
+}
+
+#period39 {
+	position: absolute;
+	top: 1175px;
+	left: 986%;
+}
+
+#period40 {
+	position: absolute;
+	top: 8976px;
+	left: 248%;
+}
+
+#period41 {
+	position: absolute;
+	top: 2345px;
+	left: 165%;
+}
+
+#period42 {
+	position: absolute;
+	top: 1239px;
+	left: 798%;
+}
+
+#period43 {
+	position: absolute;
+	top: 987px;
+	left: 967%;
+}
+
+#period44 {
+	position: absolute;
+	top: 107px;
+	left: 548%;
+}
+
+#period45 {
+	position: absolute;
+	top: 1649px;
+	left: 87%;
+}
+
+#period46 {
+	position: absolute;
+	top: 3654px;
+	left: 112%;
+}
+
+#period47 {
+	position: absolute;
+	top: 7568px;
+	left: 698%;
+}
+
+#period48 {
+	position: absolute;
+	top: 4325px;
+	left: 964%;
+}
+
+#period49 {
+	position: absolute;
+	top: 4972px;
+	left: 875%;
+}
+
+#period50 {
+	position: absolute;
+	top: 5697px;
+	left: 415%;
+}
+
+#period51 {
+	position: absolute;
+	top: 6495px;
+	left: 872%;
+}
+
+#period52 {
+	position: absolute;
+	top: 3426px;
+	left: 981%;
+}
+
+#period53 {
+	position: absolute;
+	top: 1284px;
+	left: 254%;
+}
+
+#period54 {
+	position: absolute;
+	top: 9561px;
+	left: 325%;
+}
+
+#period55 {
+	position: absolute;
+	top: 7568px;
+	left: 650%;
+}
+
+#period56 {
+	position: absolute;
+	top: 7122px;
+	left: 822%;
+}
+
+#period57 {
+	position: absolute;
+	top: 8795px;
+	left: 265%;
+}
+
+#period58 {
+	position: absolute;
+	top: 6232px;
+	left: 113%;
+}
+
+#period59 {
+	position: absolute;
+	top: 2356px;
+	left: 172%;
+}
+
+#period60 {
+	position: absolute;
+	top: 1247px;
+	left: 594%;
+}
+
+#period61 {
+	position: absolute;
+	top: 865px;
+	left: 621%;
+}
+
+#period62 {
+	position: absolute;
+	top: 3695px;
+	left: 1122%;
+}
+
+#period63 {
+	position: absolute;
+	top: 4779px;
+	left: 1014%;
+}
+
+#period64 {
+	position: absolute;
+	top: 1px;
+	left: 1087%;
+}
+

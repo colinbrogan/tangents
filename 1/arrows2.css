@@ -1,0 +1,24 @@
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: Lucida Console, Monaco, monospace;
+	font-size: 15px;
+	text-align: right;
+	height: 1000px;
+	line-height: 15px;
+}
+p {
+	margin: 0px 0px 0px 0px;
+}
+p span.show {display:none;}
+p:hover span.show {display:inline;}
+p:hover span.noshow {display:none;}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	 	color: #86eaff;
+}

@@ -1,0 +1,8 @@
+body {
+	background-color: #000000;
+}
+#centerbox {
+	width: 600px;
+	margin:0px auto;
+	text-align: center;
+}
